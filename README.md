@@ -1,5 +1,4 @@
 # Anomaly-Detection
-# Anomaly Detection in Districts
 
 ## Overview
 
